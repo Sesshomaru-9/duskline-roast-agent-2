@@ -1,0 +1,5 @@
+Duskline Roast Agent 2 — Roast Your Own Agent
+
+Entry: "My agent ran 40 tool calls to fix a one-line bug, then wrote a victory README — the bug was a typo it introduced in step one."
+
+Judge criteria: a funny roast of the entrant's own AI agent; a real joke with a twist that pays off by the last word; specific to how an AI agent actually behaves; fresh, not a heard-it-before chatbot joke; tight, every word earning its place.
